@@ -1,7 +1,7 @@
 Akun
-    nama: "Sofyan Rizki Afandy",
-    email: "yayansra123@gmail.com",
-    password: "Cobacoba1",
+    nama: "YayanSRA",
+    email: "yayansra14@gmail.com",
+    password: "Cobacoba2",
 
 Akses Deployment
     Vercel
